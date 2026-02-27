@@ -1,4 +1,5 @@
 # terabudget.github.io
+
 ```mermaid
 graph TD;
     A-->B;
